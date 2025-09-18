@@ -20,6 +20,7 @@ public class AddCityFragment extends DialogFragment {
 
     private AddCityDialogListener listener;
 
+
     @Override
     public void onAttach(@NonNull Context context) {
         super.onAttach(context);
